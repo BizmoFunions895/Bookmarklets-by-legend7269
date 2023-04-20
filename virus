@@ -62,11 +62,6 @@ drawPixel(e,i,Math.floor(a*w),
 Math.floor(d*w),Math.floor(l*w),1-w))}
 }window.addEventListener("mousemove",main);
 
-(function(){
-document.documentElement.style.transitionDuration="60s";
-document.documentElement.style.transitionTimingFunction="ease-in";
-document.documentElement.style.transform="rotate(360000deg)";
-}());
 
 
 
